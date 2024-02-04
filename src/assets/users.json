@@ -1,0 +1,12 @@
+[
+	{
+		"id": 0,
+		"surname": "Klepáč",
+		"middlename": "",
+		"firstname": "Adam",
+		"email": "adam.klepac@gevo.cz",
+		"username": "admin",
+		"password": "admin",
+		"role": "admin"
+	}
+]
